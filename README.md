@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@gustafgronlund.com**
 
-- ⚡ Fun fact **I produce music and play in two bands.**
+- ⚡ Fun fact **I produce music and play in bands.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
