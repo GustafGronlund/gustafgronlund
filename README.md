@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustaf</h1>
-<h3 align="center">I'm an aspiring Front End Developer studying at Medieinstitutet.</h3>
+<h3 align="center">I'm an aspiring Front End Developer studying at Medieinstitutet in Malmö, Sweden.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustafgronlund&label=Profile%20views&color=0e75b6&style=flat" alt="gustafgronlund" /> </p>
 
