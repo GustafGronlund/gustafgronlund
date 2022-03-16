@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript.**
 
-- 📫 How to reach me **hello@gustafgronlund.com**
+- 📫 How to reach me **gustaf@gronlund.dev**
 
 - ⚡ Fun fact **I produce music and play in bands.**
 
